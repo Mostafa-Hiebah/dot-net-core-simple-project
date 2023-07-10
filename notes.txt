@@ -1,0 +1,3 @@
+push source code to git repo
+Jenkins: pull source code from git repo
+deploy using docker
