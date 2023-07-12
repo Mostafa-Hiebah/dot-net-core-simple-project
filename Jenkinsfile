@@ -4,7 +4,7 @@ pipeline {
         stage('Build') { 
             steps {
                 echo "Build" 
-                touch jj
+                touch 'jj'
             }
         }
         stage('Test') { 
